@@ -26,8 +26,8 @@ Numerous Random Forest models were trained on readily available datasets and mod
 
 Improvements upon original models were observed but success on my own dataset was limited likely due to low feature/target association strength.
 
-![image](https://github.com/Mezuah4/cryptoclass/assets/43442819/9a272d8d-01a3-4e17-b014-0e3f278ab636)
+![image](https://github.com/Mezuah4/cryptoclass/assets/43442819/a86fa21a-e1f2-4eeb-a531-6aa0f719bf52)
 
 The resulting model was used to predict the prevalence of suspicious bitcoin addresses in the year 2022.
 
-![image](https://github.com/Mezuah4/cryptoclass/assets/43442819/236477fd-6dbc-42a6-95df-2b85a75b7dcf)
+![image](https://github.com/Mezuah4/cryptoclass/assets/43442819/a3d78669-8cba-46e1-99e4-a94b61e05e6b)
